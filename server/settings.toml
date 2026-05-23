@@ -1,0 +1,12 @@
+# WS 代理监听地址 (接收来自 CDN 的连接)
+listen = ':8080'
+# WS 路由路径
+path = '/mc'
+# MC 服务器真实的内网 TCP 地址
+backend = '127.0.0.1:25566'
+# CDN 传递真实 IP 的 Header 名称 (例如 X-Forwarded-For 或 CF-Connecting-IP)
+header = 'X-Forwarded-For'
+# CDN 传递真实端口的 Header 名称 (留空则默认使用临时端口 50000)
+port_header = 'X-Forwarded-Port'
+# 安全校验密钥：CDN 请求必须携带 X-Toh-Token 且值匹配才允许连接 (留空则不校验)
+password = ''

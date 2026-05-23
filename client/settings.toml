@@ -1,0 +1,6 @@
+# 本地 MC 客户端连接的 TCP 监听地址
+local_listen = '127.0.0.1:3001'
+# CDN 的 WebSocket 接入点 (如果 CDN 启用了 HTTPS/TLS，请用 wss://)
+cdn_url = 'ws://example.com:80/mc'
+# 是否跳过 CDN 的 TLS 证书验证 (使用自签名证书时开启)
+skip_tls = false
