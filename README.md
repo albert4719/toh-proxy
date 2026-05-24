@@ -207,7 +207,7 @@ skip_tls = false
 
 ## 当前支持
 (官方) [https://github.com/albert4719/TohConnect](https://github.com/albert4719/TohConnect) \
-(第三方) [https://github.com/MooreFoss/ws2tcp/tree/master](https://github.com/MooreFoss/ws2tcp/tree/master)
+(第三方) [https://github.com/MooreFoss/ws2tcp](https://github.com/MooreFoss/ws2tcp)
 
 ---
 
