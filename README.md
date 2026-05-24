@@ -124,7 +124,7 @@ WebSocket
 ### 关于免费套餐
 
 活动地址: [https://cloud.tencent.com/act/pro/eo-freeplan
-](https://cloud.tencent.com/act/pro/eo-freeplan) \
+](https://cloud.tencent.com/act/pro/eo-freeplan) 
 
 注意：
 
